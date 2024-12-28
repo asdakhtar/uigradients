@@ -1,3 +1,4 @@
+"pure gradient"
 [
     {
         …
@@ -5,5 +6,28 @@
     {
       "name": "Career",
       "colors": ["#cb202d", "#dc1e28", "#3366cc"]
+    }
+]
+
+"red sunset"
+[
+    {
+        …
+    },
+    {
+      "name": "Career",
+      "colors": ["#cb202d", "#dc1e28", "#3366cc"]
+    }
+]
+
+"sand to blue"
+[
+    {
+        …
+    },
+    {
+      "name": "Career",
+      "colors": [
+              #3e5151,#decba4]
     }
 ]
